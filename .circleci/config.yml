@@ -41,6 +41,8 @@ job_environments:
     NEWRELIC_APPNAME: P4 eastasia Release
     WP_DB_NAME: planet4-eastasia_wordpress_release
     WP_STATELESS_BUCKET: planet4-eastasia-stateless-release
+    MIN_REPLICA_COUNT: 1
+    MAX_REPLICA_COUNT: 1
   production_environment: &production_environment
     APP_HOSTNAME: www.greenpeace.org
     CLOUDSQL_INSTANCE: planet4-prod
