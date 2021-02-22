@@ -1,10 +1,10 @@
 {
-	"name": "greenpeace/planet4-eastasia",
-	"description": "Greenpeace P4 eastasia",
-	"license": "MIT",
-	"require": {
-		"greenpeace/planet4-child-theme-eastasia" : "dev-master"
-	},
-	"scripts": {
-	}
+    "name": "greenpeace/planet4-eastasia",
+    "description": "Greenpeace P4 eastasia",
+    "license": "MIT",
+    "require": {
+        "greenpeace/planet4-child-theme-eastasia" : "dev-master"
+    },
+    "scripts": {
+    }
 }
