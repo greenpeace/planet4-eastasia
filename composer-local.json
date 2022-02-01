@@ -3,7 +3,7 @@
     "description": "Greenpeace P4 eastasia",
     "license": "MIT",
     "require": {
-        "greenpeace/planet4-child-theme-eastasia" : "dev-master"
+        "greenpeace/planet4-child-theme-eastasia" : "dev-main"
     },
     "scripts": {
     }
